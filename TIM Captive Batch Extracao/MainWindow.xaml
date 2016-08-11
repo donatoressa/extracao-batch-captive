@@ -1,0 +1,25 @@
+﻿<Window x:Class="TIM_Captive_Batch_Extracao.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TIM Captive - Batch Extracao" Height="400" Width="525">
+    <Grid>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="112" Margin="10,10,0,0" VerticalAlignment="Top" Width="497">
+            <StackPanel Orientation="Vertical" Margin="0,0,0,-25">
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock Text="Servidor:" Margin="10,10,10,0" VerticalAlignment="Top"/>
+                    <TextBox Name="tbServidor" Width="420" Margin="0,8,0,10" VerticalAlignment="Center" Foreground="Gray" Text="snelnx073.internal.timbrasil.com.br"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock Text="Usuario:" Margin="10,10,10,0" VerticalAlignment="Top"/>
+                    <TextBox Name="tbUsuario" Width="180" Margin="0,8,0,10" VerticalAlignment="Center" Foreground="Gray" Text="otusr"/>
+                    <TextBlock Text="Senha:" Margin="10,10,10,0" VerticalAlignment="Top"/>
+                    <PasswordBox Name="pbSenha" Width="188" Margin="0,8,0,10" VerticalAlignment="Center" Foreground="Gray" Password="Tim#$890"/>
+                </StackPanel>
+                <Button Name="btnVaiPlaneta" HorizontalAlignment="Right" Content="Executar" Margin="0,0,10,0" PreviewMouseLeftButtonDown="btnVaiPlaneta_PreviewMouseLeftButtonDown"/>
+            </StackPanel>
+        </Border>
+        <TextBox Name="tbRetorno" HorizontalAlignment="Left" Margin="10,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="497" Height="210"/>
+        <Button Content="Limpar" HorizontalAlignment="Right" Margin="448,342,10,0" VerticalAlignment="Top" />
+
+    </Grid>
+</Window>

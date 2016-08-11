@@ -1,0 +1,13 @@
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\bin\Debug\TIM Captive Batch Extracao.exe.config
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\TIM Captive Batch Extracao.csprojResolveAssemblyReference.cache
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\App.g.cs
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\TIM Captive Batch Extracao_MarkupCompile.cache
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\bin\Debug\TIM Captive Batch Extracao.exe
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\bin\Debug\TIM Captive Batch Extracao.pdb
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\MainWindow.baml
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\MainWindow.g.cs
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\TIM Captive Batch Extracao.g.resources
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\TIM_Captive_Batch_Extracao.Properties.Resources.resources
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\TIM Captive Batch Extracao.csproj.GenerateResource.Cache
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\TIM Captive Batch Extracao.exe
+c:\users\donato.ressa\documents\visual studio 2013\Projects\TIM Captive Batch Extracao\TIM Captive Batch Extracao\obj\Debug\TIM Captive Batch Extracao.pdb
